@@ -564,15 +564,15 @@ messenger:
 
 # Baidu Analytics
 # https://tongji.baidu.com/web/welcome/login
-baidu_analytics:
+baidu_analytics: ae68f45046ac1a4d2e5e95254b8d67bc
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
-google_analytics:
+google_analytics: G-K4FT7F7FMB
 
 # Cloudflare Analytics
 # https://www.cloudflare.com/zh-tw/web-analytics/
-cloudflare_analytics:
+cloudflare_analytics: 138605114d394928be72119f6226719e
 
 # Microsoft Clarity
 # https://clarity.microsoft.com/
@@ -599,10 +599,10 @@ google_adsense:
 # --------------------------------------
 
 site_verification:
-  # - name: google-site-verification
-  #   content: xxxxxx
-  # - name: baidu-site-verification
-  #   content: xxxxxxx
+  - name: google-site-verification
+    content: Hb5BmoJtR1pdNosXYvrCOii3K6DIAO0WeKCu_mmDj_c
+  - name: baidu-site-verification
+    content: codeva-xQ8mrADC9V
 
 # Beautify/Effect (美化/效果)
 # --------------------------------------
