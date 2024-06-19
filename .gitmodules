@@ -1,0 +1,3 @@
+[submodule "themes/bcxm"]
+	path = themes/bcxm
+	url = https://github.com/chenxz21/hexo-theme-bcxm.git
