@@ -354,4 +354,8 @@ yield: 8
 yield: 9
 final_suspend
 ```
+# 引用
+- [【C++20】从0开始自制协程库，有手就行（上）](https://www.bilibili.com/video/BV1Yz421Z7rZ) 
+- [archibate/co_async: C++20 Coroutine Library for Education Purpose (WIP)](https://github.com/archibate/co_async)
+- [协程 (C++20) - cppreference.com](https://zh.cppreference.com/w/cpp/language/coroutines)
 
